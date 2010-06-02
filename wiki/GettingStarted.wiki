@@ -8,7 +8,7 @@ Click the 'source' tab above to get SVN information, and check out a (read-only)
 
 = Running =
 
-PyInYourFace requires:
+This project requires:
  * [http://www.python.org/ Python 2.6+]
  * [http://numpy.scipy.org/ NumPy]
  * [http://pyyaml.org/wiki/PyYAML PyYAML]
